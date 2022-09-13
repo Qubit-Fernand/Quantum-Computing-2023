@@ -17,6 +17,7 @@ export default siteConfig({
   description: 'Quark Lab',
 
   // social usernames (optional)
+
   // twitter: 'transitive_bs',
   github: 'Qubit-Fernand',
   // linkedin: 'fisch2',
