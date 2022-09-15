@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
 
-  // twitter: 'transitive_bs',
+  // gtwitter: 'transitive_bs',
   // github: 'Qubit-Fernand',
   // linkedin: 'fisch2',
   // newsletter: '#', // optional newsletter URL
@@ -55,11 +55,13 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'About',
-      pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+      // pageId: 'f1199d37579b41cbabfc0b5174f4256a',
+      url: 'https://www.tongyangli.com/'
     },
     {
       title: 'Contact',
-      pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
+      // pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1',
+      url: 'fernand.tech'
     }
   ]
 })
