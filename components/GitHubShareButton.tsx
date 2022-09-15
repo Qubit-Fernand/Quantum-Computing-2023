@@ -20,7 +20,7 @@ export const GitHubShareButton: React.FC = () => {
           color: '#fff',
           position: 'absolute',
           zIndex: 1001,
-          top: 0,
+          bottom: 0,
           right: 0,
           border: 0,
           transform: 'scale(1, 1)'
