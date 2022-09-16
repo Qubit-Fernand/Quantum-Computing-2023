@@ -61,7 +61,7 @@ export default siteConfig({
     {
       title: 'Contact',
       // pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1',
-      url: 'https://fernand.tech'
+      url: 'mailto:AntiEntropy@pku.edu.cn'
     }
   ]
 })
