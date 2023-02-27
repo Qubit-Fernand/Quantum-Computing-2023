@@ -54,12 +54,17 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'Home',
+      title: 'Homepage',
       // pageId: 'f1199d37579b41cbabfc0b5174f4256a',
       url: 'https://www.tongyangli.com/'
     },
     {
-      title: 'Contact',
+      title: 'Bulider',
+      // pageId: 'f1199d37579b41cbabfc0b5174f4256a',
+      url: 'https://zhoushuo.tech'
+    },
+    {
+      title: 'Email',
       // pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1',
       url: 'mailto:AntiEntropy@pku.edu.cn'
     }
