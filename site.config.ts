@@ -54,17 +54,7 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'Homepage',
-      // pageId: 'f1199d37579b41cbabfc0b5174f4256a',
-      url: 'https://www.tongyangli.com/'
-    },
-    {
       title: 'Bulider',
-      // pageId: 'f1199d37579b41cbabfc0b5174f4256a',
-      url: 'https://zhoushuo.tech'
-    },
-    {
-      title: 'Blog Posts',
       // pageId: 'f1199d37579b41cbabfc0b5174f4256a',
       url: 'https://fernand.tech'
     },
