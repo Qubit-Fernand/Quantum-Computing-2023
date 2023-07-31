@@ -54,7 +54,7 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'Bulider',
+      title: '  Bulider',
       // pageId: 'f1199d37579b41cbabfc0b5174f4256a',
       url: 'https://fernand.tech'
     }
