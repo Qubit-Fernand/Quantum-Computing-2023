@@ -2,15 +2,15 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'e3bf1aee47f04677a3b005d7e97165bd',
+  rootNotionPageId: '0e06dfdc775d4cc6ab7dbf3eea273f55',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: 'e57fa69576c34239932f087196971d29',
 
   // basic site info (required)
-  name: 'Introduction to Quantum Computing',
-  domain: 'quantumcomputation.tech',
+ name: '2023 Quantum Computing',
+  domain: 'https://quantum-computing-2023.vercel.app',
   author: 'Fernand',
 
   // open graph metadata (optional)
